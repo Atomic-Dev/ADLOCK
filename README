@@ -1,3 +1,9 @@
+What is Adlock?
+================================
+Adlock is a C++ interface for obtaining the adress location of a byte or int.
+
+License:
+================================
 The author (KryptonX) distributes this software and source code without any legal restrictions.
 You may modify and/or re-use it freely, even for commercial use.
 No mention of the author is required at any time.
