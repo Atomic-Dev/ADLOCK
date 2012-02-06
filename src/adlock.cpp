@@ -35,7 +35,8 @@ int main(int argc, char *argv[]) {
                    break;
               case 'c':  
                    std::cin >> c;                
-                 a_char(c);                 
+                 a_char(c);
+		 system("pause");
                  break;                   
               case 'd':
                    std::cin >> c;
